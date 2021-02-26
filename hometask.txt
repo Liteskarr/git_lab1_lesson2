@@ -1,1 +1,13 @@
-Ветка demo является дочерней от buttons и в нее слиты ветки boots и hat, в отличие от ветки master.
+1. Ветка demo является дочерней от buttons и в нее слиты ветки boots и hat, в отличие от ветки master.
+2. На момент ответа на данный вопрос было сделано 10 коммитов.
+Перечисление комментариев в коммитах:
+- init
+- heat added
+- boots
+- README added
+- dots
+- fix readme
+- Merge remote-tracking branch 'origin/boots' into boots_buttons
+- Merge remote-tracking branch 'origin/buttons' into boots_buttons
+- Merge remote-tracking branch 'origin/hat'
+- adding hometask.txt: Ответ на первый вопрос задания
